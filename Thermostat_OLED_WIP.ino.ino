@@ -159,9 +159,9 @@ int MenuSelection() {
 
   MenuItems Menu1[] = {
     //    DESC           ShortDESC sMode  T  t
-    {"- Exit",            "",     1,   0, 0},
-    {"- Select Material", "",     2,   0, 0},
-    {"- Set timer",       "",     1,   0, 0}                    // Function to be implemented in the future
+    {"- Iseiti",            "",     1,   0, 0},
+    {"- Plastikas", "",     2,   0, 0},
+    {"- Laikas",       "",     1,   0, 0}                    // Function to be implemented in the future
   };
 
   MenuItems Menu2[] = {
